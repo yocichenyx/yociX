@@ -18,6 +18,6 @@ If you want to use this tool, you need to install **openpyxl** and **traceback**
 In addition, you need ensure you have python in your computer and it have **re os tkinter** module.
 
 ### How to use it
-After installing above modules, you can use the tool by run application.
+After installing above modules, you can use the tool by run application.py.
 
 *yocichen 2019/10/26*
