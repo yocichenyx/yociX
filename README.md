@@ -1,7 +1,7 @@
 # yociX
 A tool for operating Excel(*.xlsx) files, import replace contents and used to directory.
   
-Scene : if you have directory which have many *xlsx file and you need to replace something of the *xlsx, 
+Scene : if you have directory which have many *xlsx file and you need to replace something of the *xlsx. 
 
 ### file structure
 ##### yociX.py
