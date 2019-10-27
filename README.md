@@ -22,7 +22,7 @@ After installing above modules, you can use the tool by run application.py.
 
 ### Ugly interface now
 
-![]("https://github.com/yocichenyx/yociX/edit/master/yociX.png")
+![](https://github.com/yocichenyx/yociX/edit/master/yociX.png)
 
 ### Attention!
 This tool only suports MS Excel version 2010(*.xlsx) and above. If your version is lower, upgrade it please ! 
